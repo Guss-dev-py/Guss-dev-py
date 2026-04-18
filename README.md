@@ -2,7 +2,8 @@
 
 <!-- 🖼️ Podés agregar un banner o GIF acá -->
 
-![banner]((https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBmMzBhNmFzNHN2M3VzOWFwb2hsNzdpdGF2ZzNxZXlseGw4dGxlMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xTiTnqUxyWbsAXq7Ju/giphy.gif))
+![banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBmMzBhNmFzNHN2M3VzOWFwb2hsNzdpdGF2ZzNxZXlseGw4dGxlMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+
 
 ---
 
