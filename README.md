@@ -1,27 +1,26 @@
-# 👋 Hola, soy Augusto Freire
+# 👋 Hi, I'm Augusto Freire
 
-<!-- 🖼️ Podés agregar un banner o GIF acá -->
+<!-- 🖼️ You can add a banner or GIF here -->
 
-![banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBmMzBhNmFzNHN2M3VzOWFwb2hsNzdpdGF2ZzNxZXlseGw4dGxlMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xTiTnqUxyWbsAXq7Ju/giphy.gif)
-
-
----
-
-## 🚀 Sobre mí
-
-Soy Augusto Freire, desarrollador en formación dentro de la Universidad Nacional de José C. Paz (UNPAZ), enfocado en Análisis de Datos y Programación Backend.
-
-Me encuentro comprometido con el aprendizaje continuo, buscando mejorar tanto mis habilidades técnicas como mi capacidad para trabajar en entornos colaborativos.
-
-Me destaco por mi comunicación asertiva, adaptabilidad y fuerte orientación al crecimiento profesional.
+<!-- Example: ![banner](YOUR_IMAGE_OR_GIF_LINK) -->
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🚀 About Me
 
-<!-- 🖼️ Podés agregar un GIF o imagen de tecnologías -->
+I'm Augusto Freire, a FullStack Developer in training at the National University of José C. Paz (UNPAZ), with a focus on Data Analysis.
 
-<!-- Ejemplo: ![tech](LINK_IMAGEN_O_GIF) -->
+I am committed to continuous learning, constantly working on improving both my technical skills and my ability to collaborate effectively in team environments.
+
+I stand out for my assertive communication, adaptability, and strong drive for professional growth.
+
+---
+
+## 🧠 Technical Skills
+
+<!-- 🖼️ You can add a tech-related GIF or image here -->
+
+<!-- Example: ![tech](YOUR_IMAGE_OR_GIF_LINK) -->
 
 * PostgreSQL
 * Express.js
@@ -30,36 +29,41 @@ Me destaco por mi comunicación asertiva, adaptabilidad y fuerte orientación al
 * Python
 * Django
 * Linux
-* Desarrollo de APIs
+* API Development
 
 ---
 
-## 📂 Proyectos
+## 📂 Projects
 
-Actualmente me encuentro desarrollando mi portafolio personal, donde iré incorporando proyectos enfocados en:
+Currently, I am building my personal portfolio, where I will showcase projects focused on:
 
-* Backend y APIs
-* Análisis de datos
-* Aplicaciones fullstack
+* FullStack applications
+* Backend and API development
+* Data analysis
 
-<!-- 🖼️ Acá podés agregar previews o GIFs de proyectos futuros -->
+<!-- 🖼️ You can add future project previews or GIFs here -->
 
-<!-- Ejemplo: ![project-preview](LINK_IMAGEN_O_GIF) -->
+<!-- Example: ![project-preview](YOUR_IMAGE_OR_GIF_LINK) -->
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/augusto-freire-09424727a
 * 💻 GitHub: https://github.com/Guss-dev-py
 * 📧 Email: [augustofreire02@gmail.com](mailto:augustofreire02@gmail.com)
-* 📱 Teléfono: +54 1140280476
+* 📱 Phone: +54 1140280476
 
 ---
 
-## ⚡ En constante evolución
+## ⚡ Always Improving
 
-Actualmente enfocado en fortalecer mis conocimientos en backend, bases de datos y arquitectura de aplicaciones, con el objetivo de construir soluciones robustas y escalables.
+Currently focused on strengthening my knowledge in fullstack development, databases, and application architecture, aiming to build scalable and efficient solutions.
+
+<!-- 🖼️ You can close with a motivational or tech GIF -->
+
+<!-- Example: ![closing-gif](YOUR_IMAGE_OR_GIF_LINK) -->
+
 
 <!-- 🖼️ Podés cerrar con un GIF motivacional o tecnológico -->
 
