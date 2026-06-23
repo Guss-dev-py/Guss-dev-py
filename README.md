@@ -50,9 +50,7 @@ Currently, I am building my personal portfolio, where I will showcase projects f
 ## 📫 Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/augusto-freire-09424727a
-* 💻 GitHub: https://github.com/Guss-dev-py
 * 📧 Email: [augustofreire02@gmail.com](mailto:augustofreire02@gmail.com)
-* 📱 Phone: +54 1140280476
 
 ---
 
